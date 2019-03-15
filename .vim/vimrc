@@ -2,7 +2,7 @@
 
 " Pathogen first
 
-execute pathogen#infect()
+" execute pathogen#infect()
 
 " Basic Settings
 
